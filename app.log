@@ -1,0 +1,263 @@
+2025-06-04 23:53:04,920 - config - INFO - Received chat request: Credit card
+2025-06-04 23:53:04,921 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-04 23:53:04,964 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:05,624 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:05,632 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:05,632 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:05,633 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:05,634 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:05,640 - config - INFO - Searching: credit card no cost EMI competitors
+2025-06-04 23:53:06,768 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:07,206 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:07,211 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:07,211 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:07,212 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:07,213 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:07,214 - config - INFO - Searching: credit card no cost EMI offers India
+2025-06-04 23:53:08,318 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:08,833 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:08,835 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:08,835 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:08,836 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:08,838 - config - INFO - Searching: credit card no cost EMI competitors India
+2025-06-04 23:53:08,838 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:09,815 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:10,318 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:10,321 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:10,322 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:10,322 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:10,326 - config - INFO - Searching: credit card providers in India with no cost EMI options
+2025-06-04 23:53:10,327 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:11,331 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:11,820 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:11,822 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:11,822 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:11,822 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:11,825 - config - INFO - Searching: credit card providers in India with no cost EMI
+2025-06-04 23:53:11,826 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:12,827 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:12,936 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:12,938 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:12,939 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:12,940 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:12,945 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:12,959 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:13,338 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:13,340 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:13,341 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:13,342 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:13,344 - config - INFO - Scraping: https://www.example.com
+2025-06-04 23:53:13,345 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:13,441 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-04 23:53:13,929 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-04 23:53:13,932 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-04 23:53:13,933 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:13,933 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-04 23:53:13,938 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:26:08,765 - config - INFO - Shutting down CrewAI application.
+2025-06-05 00:28:21,169 - config - INFO - Received chat request: Credit card
+2025-06-05 00:28:21,170 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 00:28:21,217 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:28:21,847 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:28:21,861 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:28:21,862 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:28:21,863 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:28:21,864 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:28:21,883 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw="I should ... successful_requests=1)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 00:29:38,088 - config - INFO - Shutting down CrewAI application.
+2025-06-05 00:29:51,290 - config - INFO - Received chat request: Credit card
+2025-06-05 00:29:51,291 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 00:29:51,333 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:29:52,423 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:29:52,441 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:29:52,442 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:29:52,442 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:29:52,443 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:29:52,448 - config - INFO - Searching: Credit card no cost EMI
+2025-06-05 00:29:53,441 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:29:57,106 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:29:57,110 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:29:57,111 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:29:57,111 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:29:57,114 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:29:57,126 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='SearchRes... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 00:50:06,992 - config - INFO - Shutting down CrewAI application.
+2025-06-05 00:50:22,313 - config - INFO - Received chat request: Credit card
+2025-06-05 00:50:22,314 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 00:50:22,362 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:50:23,098 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:50:23,107 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:50:23,109 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:50:23,109 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:50:23,110 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:50:23,117 - config - INFO - Searching: Credit card no cost EMI
+2025-06-05 00:50:24,057 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:50:24,326 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:50:24,330 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:50:24,331 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:50:24,332 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:50:24,339 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:50:24,350 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='SearchRes... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 00:54:56,471 - config - INFO - Shutting down CrewAI application.
+2025-06-05 00:55:40,887 - config - INFO - Received chat request: Credit card
+2025-06-05 00:55:40,888 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 00:55:40,928 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:55:41,552 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:55:41,561 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:55:41,562 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:55:41,563 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:55:41,564 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:55:41,585 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw="I should ... successful_requests=1)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 00:59:04,236 - config - INFO - Shutting down CrewAI application.
+2025-06-05 00:59:14,772 - config - INFO - Received chat request: Credit card
+2025-06-05 00:59:14,772 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 00:59:14,848 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:59:15,709 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:59:15,721 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:59:15,722 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:59:15,723 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:59:15,725 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:59:15,733 - config - INFO - Searching: Credit card no cost EMI
+2025-06-05 00:59:16,563 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 00:59:19,126 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 00:59:19,128 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 00:59:19,129 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:59:19,129 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:59:19,136 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 00:59:19,148 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='SearchRes... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:01:25,602 - config - INFO - Shutting down CrewAI application.
+2025-06-05 01:01:36,126 - config - INFO - Received chat request: Credit card
+2025-06-05 01:01:36,127 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 01:01:36,202 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:01:36,877 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:01:36,885 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:01:36,886 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:01:36,886 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:01:36,887 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:01:36,892 - config - INFO - Searching: Credit card no cost EMI
+2025-06-05 01:01:37,947 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:01:40,312 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:01:40,314 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:01:40,315 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:01:40,315 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:01:40,320 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:01:40,334 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='[\n    "h... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:03:44,450 - config - INFO - Shutting down CrewAI application.
+2025-06-05 01:03:55,737 - config - INFO - Received chat request: Credit card
+2025-06-05 01:03:55,737 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 01:03:55,777 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:03:56,515 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:03:56,527 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:03:56,528 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:03:56,529 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:03:56,533 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:03:56,543 - config - INFO - Searching: Credit card no cost EMI
+2025-06-05 01:03:57,589 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:03:59,219 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:03:59,223 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:03:59,224 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:03:59,225 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:03:59,229 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:03:59,241 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='SearchRes... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:04:54,076 - config - INFO - Shutting down CrewAI application.
+2025-06-05 01:05:07,110 - config - INFO - Received chat request: Credit card
+2025-06-05 01:05:07,110 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 01:05:07,162 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:05:07,784 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:05:07,794 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:05:07,795 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:07,795 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:07,796 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:07,836 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw="I should ... successful_requests=1)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:05:27,750 - config - INFO - Received chat request: Credit card
+2025-06-05 01:05:27,751 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 01:05:27,771 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:05:28,400 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:05:28,402 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:05:28,402 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:28,403 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:28,406 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:28,408 - config - INFO - Searching: Credit card no cost EMI
+2025-06-05 01:05:29,460 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:05:29,763 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:05:29,765 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:05:29,765 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:29,765 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:29,769 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:05:29,780 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='SearchRes... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:06:47,421 - config - INFO - Shutting down CrewAI application.
+2025-06-05 01:06:58,667 - config - INFO - Received chat request: Credit card
+2025-06-05 01:06:58,668 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 01:06:58,709 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:06:59,223 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:06:59,233 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:06:59,234 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:06:59,235 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:06:59,236 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:06:59,255 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='I need to... successful_requests=1)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:08:51,134 - config - INFO - Shutting down CrewAI application.
+2025-06-05 01:09:01,249 - config - INFO - Received chat request: Credit card
+2025-06-05 01:09:01,250 - config - INFO - Starting CrewAI workflow for tenant: Credit card
+2025-06-05 01:09:01,292 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:09:02,044 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:09:02,052 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:09:02,053 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:09:02,053 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:09:02,054 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:09:02,060 - config - INFO - Searching: Credit card no cost EMI Barclays bank UK Credit card department, handling credit card operations and offers.
+2025-06-05 01:09:03,078 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-35-turbo; provider = azure
+2025-06-05 01:09:03,302 - httpx - INFO - HTTP Request: POST https://bh-in-openai-synapsesynergy.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-05 01:09:03,308 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-05 01:09:03,309 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:09:03,310 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:09:03,314 - LiteLLM - INFO - selected model name for cost calculation: azure/gpt-3.5-turbo-0125
+2025-06-05 01:09:03,327 - config - ERROR - Workflow error: 1 validation error for SearchResults
+  Input should be a valid dictionary or instance of SearchResults [type=model_type, input_value=CrewOutput(raw='SearchRes... successful_requests=2)), input_type=CrewOutput]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-05 01:10:43,784 - config - INFO - Shutting down CrewAI application.

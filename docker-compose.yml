@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  fastapi:
+    build: .
+    ports:
+      - "8081:8000"
+    environment:
+      - AZURE_API_KEY=ff1cd87da4ba4304986e9bf652498906 # Make sure to pass your API key
+      - AZURE_API_BASE=https://bh-in-openai-synapsesynergy.openai.azure.com/
+      - AZURE_API_VERSION=2024-12-01-preview 
+      - MODELS=azure/gpt-35-turbo
+    volumes:
+      - .:/app
+    restart: unless-stopped
